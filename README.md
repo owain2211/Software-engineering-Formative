@@ -15,4 +15,7 @@ The code is an app which allows the user to either multiply or add two numbers, 
 The progress of the app was tracked using a kanban board which can be seen below
 
 
+![Alt text](https://github.com/owain2211/Software-engineering-Formative/blob/a7443db8c41cc5b5c590f37c0fc93265c3a2cf2e/Kanban%20board%20for%20formative.png)
+
+The kanban board shows the project while the function which calculates the results after the button is clicked was being tested. The final item in the to do section is still incomplete at the moment.
 
