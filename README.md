@@ -33,3 +33,7 @@ The GUI class has to functions, the first is the __init__ function which runs th
 
 The second function is the one used to calcualte the answer to the sum its given, this function runs when the button is clicked. It first checks whether the two numbers are numeric and that the combo box isn't empty, if this test fails then the below error message appears.
 
+![Alt text](https://github.com/owain2211/Software-engineering-Formative/blob/50e0f2e7e7c66a1723170a07d4daba7648c80c90/app_error_message.jpg)
+
+If the conditions are met then it converts the two input numbers to ints, and then based on whether addition or multiply has been selected it will add or mutliply the numbers to generate an answer and also set the operation to  + or *, this is so that the equation in full can be printed to the user. Next a string of the equation is created in the format of number_1 operation number_2 = answer i.e it could be 1 + 2 = 3. Once the result has been created the variable which the answer box displays is set to the result and the two number entry boxes are cleared, meaning the equation the user defined along with the answer is displayed to them.
+
