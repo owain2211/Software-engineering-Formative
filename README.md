@@ -19,3 +19,6 @@ The progress of the app was tracked using a kanban board which can be seen below
 
 The kanban board shows the project while the function which calculates the results after the button is clicked was being tested. The final item in the to do section is still incomplete at the moment.
 
+### How to use the app
+
+The app is designed to be simple to use, with only a single button and three data entry points, the final app along with the different features can be seen in the below
