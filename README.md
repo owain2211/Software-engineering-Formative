@@ -37,3 +37,14 @@ The second function is the one used to calcualte the answer to the sum its given
 
 If the conditions are met then it converts the two input numbers to ints, and then based on whether addition or multiply has been selected it will add or mutliply the numbers to generate an answer and also set the operation to  + or *, this is so that the equation in full can be printed to the user. Next a string of the equation is created in the format of number_1 operation number_2 = answer i.e it could be 1 + 2 = 3. Once the result has been created the variable which the answer box displays is set to the result and the two number entry boxes are cleared, meaning the equation the user defined along with the answer is displayed to them.
 
+### Testing
+
+User testing was performed on the code through a survey created using google docs, the tests included:
+* whether the app was easy to use
+* whether the app was visually effective, both in terms of colour and also layout
+* whether they could successfully both add and multiply two numbers
+* whether the app displayed an error if they entered text in the number boxes
+* whether the app displayed an error if they didnt select an option in the combo box
+* whether the numbers they entered gave a correct solution
+
+The results of the user acceptance tests highlighted that negative and float values didnt work within the app, and so in the second developement iteration these features will be added.
